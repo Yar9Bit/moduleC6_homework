@@ -1,0 +1,15 @@
+.btn-arr {
+    margin-top: 50px;
+}
+
+.btn-send, .btn-geo {
+    background: cadetblue;
+    color: black;
+    height: 35px;
+    margin-left: 10px;
+}
+
+input {
+    border: solid black;
+    height: 30px;
+}
